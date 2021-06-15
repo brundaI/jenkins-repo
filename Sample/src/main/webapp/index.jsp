@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello from on redhat</h2> 
+<h2>Hello from on centOS</h2> 
 </body>
 </html>
