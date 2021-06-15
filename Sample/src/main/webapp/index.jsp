@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello ! deploy war file succesfull on centos (webhook) </h2> 
+<h2>Hello from on centos </h2> 
 </body>
 </html>
