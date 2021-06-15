@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello from on centOS8</h2> 
+<h2>Hello from centOS8</h2> 
 </body>
 </html>
