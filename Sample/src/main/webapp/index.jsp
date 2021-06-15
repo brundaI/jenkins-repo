@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello from centos</h2> 
+<h2>Hello from centos8</h2> 
 </body>
 </html>
